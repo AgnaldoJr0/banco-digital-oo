@@ -7,9 +7,9 @@ Objetivo: O objetivo deste projeto prático hands-on é reforçar o conhecimento
 
 Descrição: Neste projeto, será disponibilizado no GitHub um projeto de referência que utiliza os conceitos de POO e Java para criar um banco digital. O contexto bancário será explorado para explorar os pilares da orientação a objetos, e assim, os participantes poderão reproduzir a solução e desenvolver sua capacidade de abstração.
 
-## link para o repositório referente ao desáfio
+## Link para o repositório referente ao desáfio
 [Repositório no GitHub](https://github.com/falvojr/lab-banco-digital-oo) (implementação de referência)
 
-# melhoria até o momento: 
-- adição de horário no extrato.
-- impressão de informações do banco como: nome do banco e o tipo de conta do cliente.
+# Melhoria até o momento: 
+- Adição de horário no extrato.
+- Impressão de informações do banco como: nome do banco e o tipo de conta do cliente.
